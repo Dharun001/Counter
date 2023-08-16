@@ -1,0 +1,55 @@
+body
+{
+    background-color: rgb(223, 213, 213);
+}
+h1
+{
+    position: absolute;
+    top:28%;
+    left:44%
+}
+#b1
+{
+    font-size: medium;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    width: 50px;
+    background-color: green;
+    position: absolute;
+    top:45%;
+    left:40%
+}
+#num
+{
+    text-align: center;
+    width: 35px;
+    position: absolute;
+    top:45%;
+    left:48%;    
+}
+#b2
+{
+    font-size: medium;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    width: 50px;
+    background-color: green;
+    position: absolute;
+    top:45%;
+    left:55%;
+}
+#b3
+{
+    font-size: medium;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    width: 50px;
+    background-color: green;
+    position: absolute;
+    top:53%;
+    left:48%
+
+}
